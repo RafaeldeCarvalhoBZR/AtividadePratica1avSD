@@ -22,6 +22,19 @@ Ao iniciar o cliente, este deve entrar com um número (primeiro operando), um si
 
 Atividade 2:
 
+Ordem de iniciação:
+1° - "Rodar" RmiServidor.java. Que está no pacote "br.rmi.control";
+
+2° - "Rodar" ProgramaClienteRMI.java. Que está no pacote "br.rmi.view";
+
+Ao iniciar o cliente, o usuário deve colocar os dados para uma lista de veiculos que são:
+- nome do cliente
+- marca do veiculo
+- preço
+- Ano do veiculo
+
+Após isso cliente tem a opção de verificar a lista, adicionar um novo veiculo ou sair da aplicação.
+
 Atividade 3:
 
 Ordem de iniciação do projeto: 
